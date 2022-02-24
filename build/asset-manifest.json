@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HOC-Counter/static/css/main.e9dd2cba.css",
+    "main.js": "/HOC-Counter/static/js/main.e0510375.js",
+    "static/js/787.7ec57b0e.chunk.js": "/HOC-Counter/static/js/787.7ec57b0e.chunk.js",
+    "index.html": "/HOC-Counter/index.html",
+    "main.e9dd2cba.css.map": "/HOC-Counter/static/css/main.e9dd2cba.css.map",
+    "main.e0510375.js.map": "/HOC-Counter/static/js/main.e0510375.js.map",
+    "787.7ec57b0e.chunk.js.map": "/HOC-Counter/static/js/787.7ec57b0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e9dd2cba.css",
+    "static/js/main.e0510375.js"
+  ]
+}
